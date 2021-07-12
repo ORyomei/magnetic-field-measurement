@@ -9,6 +9,7 @@ python = "^3.8"
 PyVISA = "^1.11.3"
 PyVISA-py = "^0.5.2"
 pyserial = "^3.5"
+matplotlib = "^3.4.2"
 
 [tool.poetry.dev-dependencies]
 yapf = "^0.30.0"
